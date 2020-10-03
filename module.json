@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "MerchantHelper",
+    "options": {
+        "niceName": "MerchantHelper",
+        "guiName": "MerchantHelper",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC / mopihu / Owyn/ Lambda11 / PsykoDev",
+    "description": "",
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/MerchantHelper/master/"],
+    "supportUrl": "https://github.com/PsykoDev/MerchantHelper/issues",
+    "version": "98.02"
+}
