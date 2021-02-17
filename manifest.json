@@ -1,23 +1,22 @@
 {
     "files": {
-        "index.js": "3232417984104da08922143a103aa34bc9fc0669454e0cc4e0a9e4a9b2e22296",
+        "config.json": "dc10cbe641e491b3e7edc81457b6e360a8a39a39477d4782c124cec27f434076",
+        "index.js": "d8ac9d9d5ec42cbfd7a6ddddef95b3708208c6af44f84995fb96009360c05eee",
         "lib/index.js": "73ab8adbfe9c972902ce96582f667cff12463f76e2066f52d54a61a86d62213a",
+        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
         "module.json": "99b64c6690bdf5de1d4fbccc774e5d46cc51d60967569b25cf53ae617edf9d9e",
-        "settings_migrator.js": "cd2892215d12aea7d84f8c9a31edff91bef6cf0af5ccf1c1b495f4ab023ccd94"
+        "settings_migrator.js": "49e008219c5dedc6cd5d316103c5ebab7301c3a8126f5b89c60fa7d0343a13cd"
     },
     "defs": {
         "C_CHAT": 1,
-        "S_BOSS_GAGE_INFO": 3,
         "S_CHAT": 3,
         "S_CURRENT_CHANNEL": 2,
         "S_DESPAWN_DROPITEM": 4,
         "S_DESPAWN_NPC": 3,
         "S_DUNGEON_EVENT_MESSAGE": 2,
-        "S_EACH_SKILL_RESULT": 14,
         "S_NOTIFY_GUILD_QUEST_URGENT": 1,
-        "S_NPC_STATUS": 2,
-        "S_SPAWN_DROPITEM": 8,
-        "S_SPAWN_NPC": 11,
+        "S_SPAWN_DROPITEM": 9,
+        "S_SPAWN_NPC": 12,
         "S_SYSTEM_MESSAGE": 1
     }
 }
