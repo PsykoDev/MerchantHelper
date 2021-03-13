@@ -1,5 +1,5 @@
 # MerchantHelper
-#Commands 
+#Commands proxy 
 !mh or /8 mh <br>
 <br>
 mh alert <br>
@@ -11,7 +11,7 @@ mh mark<br>
 mh clear<br>
 mh log<br>
 
-#Commands guild chat <br>
+#Commands guild chat for all guild members <br>
 <br>
 @mh <br>
 @mh on<br>
