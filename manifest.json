@@ -1,11 +1,12 @@
 {
     "files": {
-        "config.json": "dc10cbe641e491b3e7edc81457b6e360a8a39a39477d4782c124cec27f434076",
-        "index.js": "d8ac9d9d5ec42cbfd7a6ddddef95b3708208c6af44f84995fb96009360c05eee",
-        "lib/index.js": "73ab8adbfe9c972902ce96582f667cff12463f76e2066f52d54a61a86d62213a",
-        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+        "config.json": "c59da33a1a9d66efe0d0a50aabecfebd6940fe040f038381a52bee2585446331",
+        "index.js": "65ece217688a1f05a50cd4242d014cee526a05a6d5ea0c913274e5332aa33137",
+        "lib/index.js": "95b9b0090f06e80d0730676c0efd1a81a365906f7ff4625570b228f509efcade",
         "module.json": "99b64c6690bdf5de1d4fbccc774e5d46cc51d60967569b25cf53ae617edf9d9e",
-        "settings_migrator.js": "49e008219c5dedc6cd5d316103c5ebab7301c3a8126f5b89c60fa7d0343a13cd"
+        "moment.js": "f0075677245792b113c801a56bd36682461596ac3830e1d1eac2499ad1460184",
+        "moment/moment.js": "f0075677245792b113c801a56bd36682461596ac3830e1d1eac2499ad1460184",
+        "settings_migrator.js": "be54a2291d4119095b189a678346547f3b078c08548cfd3b666c97631700d7fc"
     },
     "defs": {
         "C_CHAT": 1,

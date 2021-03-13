@@ -6,6 +6,7 @@
         "notice": true,
         "party": false,
         "guild": true,
+        "log": false,
         "messager": true,
         "marker": true,
         "itemId": 206976,
@@ -298,7 +299,7 @@
             {
                 "huntingZoneId": 63,
                 "templateId": 1276,
-                "logTime": 1613523972160,
+                "logTime": 1615518490436,
                 "name": "1-Mystery Market(Velika)"
             },
             {
@@ -309,37 +310,37 @@
             {
                 "huntingZoneId": 84,
                 "templateId": 1276,
-                "logTime": 1613545569220,
+                "logTime": 1615540089582,
                 "name": "2-Mystery Market(Kaiator)"
             },
             {
                 "huntingZoneId": 72,
                 "templateId": 1276,
-                "logTime": 1613567168914,
+                "logTime": 1615581523378,
                 "name": "3-Mystery Market(Allemantheia)"
             },
             {
                 "huntingZoneId": 183,
                 "templateId": 1276,
-                "logTime": 1613502371784,
+                "logTime": 1615603123037,
                 "name": "4-Mystery Market(Highwatch)"
             },
             {
                 "huntingZoneId": 26,
                 "templateId": 5001,
-                "logTime": 1607115403268,
+                "logTime": 1614865330844,
                 "name": "Ortan [Essenia]"
             },
             {
                 "huntingZoneId": 39,
                 "templateId": 501,
-                "logTime": 1613470194388,
+                "logTime": 1615283737675,
                 "name": "Hazard [Val Palrada]"
             },
             {
                 "huntingZoneId": 51,
                 "templateId": 4001,
-                "logTime": 1613492464094,
+                "logTime": 1615200822756,
                 "name": "Cerrus [Lorcada]"
             }
         ]
